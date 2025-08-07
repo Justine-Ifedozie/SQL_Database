@@ -1,0 +1,2 @@
+select sku_description, sku
+from sku_data;
