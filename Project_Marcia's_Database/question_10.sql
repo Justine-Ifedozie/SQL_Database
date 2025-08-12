@@ -1,3 +1,2 @@
-select FirstName, LastName
-from customer
-group by FirstName, LastName
+select count(customerID)
+ from customer
